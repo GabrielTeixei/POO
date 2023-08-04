@@ -1,0 +1,10 @@
+Companhia            Voos           
+Lufthansa            00:03          
+TAAG                 00:10          
+Ryanair              00:21          
+Iberia               00:25          
+null                 00:26          
+TAP Portugal         00:26          
+Transavia France     00:29          
+EasyJet Airlines     00:30          
+Sata Internacional   00:35          
